@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurczak1233&theme=tokyonight)](https://github.com/Kurczak1233/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurczak1233)](https://github.com/Kurczak1233/github-readme-stats)
 
 
 
