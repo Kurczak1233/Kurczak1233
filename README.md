@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurczak1233&bg_color=FF5733,FFFFFF)](https://github.com/Kurczak1233/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurczak1233&theme=tokyonight)](https://github.com/Kurczak1233/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurczak1233&layout=compact)](https://github.com/Kurczak1233/github-readme-stats)
 
 
