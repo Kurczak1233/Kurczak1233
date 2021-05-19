@@ -1,5 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurczak1233&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurczak1233&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kurczak1233&theme=dark)](https://git.io/streak-stats)
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
