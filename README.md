@@ -4,6 +4,12 @@
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
 [![Visits](https://komarev.com/ghpvc/?username=Kurczak1233&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Kurczak1233)
 
+<br>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I work with.
+
 <table>
   <tr>
     <td align="center" width="96">
