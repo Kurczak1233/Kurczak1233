@@ -46,7 +46,7 @@
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap 5
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
