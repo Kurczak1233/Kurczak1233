@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="MSSQL" />
+        <img src="https://c0.klipartz.com/pngpicture/923/453/gratis-png-insercion-del-lenguaje-de-consulta-de-la-base-de-datos-del-servidor-microsoft-sql-tabla-thumbnail.png" width="48" height="48" alt="MSSQL" />
       </a>
       <br>MSSQL
     </td> 
