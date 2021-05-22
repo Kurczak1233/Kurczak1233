@@ -11,9 +11,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="48" height="48" alt="C#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>.NET &nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
