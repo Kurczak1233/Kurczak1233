@@ -13,7 +13,7 @@
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" width="48" height="48" alt="C#" />
       </a>
-      <br>.NET &nbsp;(Core)
+      <br>.NET
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
