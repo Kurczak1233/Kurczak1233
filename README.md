@@ -65,7 +65,7 @@
     </td> 
         <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" width="48" height="48" alt="MSSQL" />
+        <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/black-nextjs.png" width="48" height="48" alt="MSSQL" />
       </a>
       <br>Next.js
     </td> 
