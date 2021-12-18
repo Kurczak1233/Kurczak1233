@@ -63,6 +63,12 @@
       </a>
       <br>MSSQL
     </td> 
+        <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Next.js
+    </td> 
   </tr>
 </table>
 
