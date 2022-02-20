@@ -73,6 +73,7 @@
   </tr>
 </table>
 
+
 <h2 align="left">Contact me:</h2>
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
