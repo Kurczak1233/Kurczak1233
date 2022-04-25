@@ -67,12 +67,16 @@
         </td> 
         <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://sebastian-gomez.com/nextjs.png" width="48" height="48" alt="MSSQL" />
+        <img src="https://sebastian-gomez.com/nextjs.png" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
     </td> 
   </tr>
 </table>
+
+<h2>3D Chart 2021</h2>
+
+[![3DChart2021](https://skyline.github.com/kurczak1233/2021)
 
 
 <h2 align="left">Contact me:</h2>
