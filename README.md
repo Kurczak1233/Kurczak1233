@@ -67,7 +67,7 @@
         </td> 
         <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://sebastian-gomez.com/nextjs.png" width="48" height="48" alt="Next.js" />
+        <img src="[https://sebastian-gomez.com/nextjs.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png)" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
     </td> 
