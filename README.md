@@ -3,7 +3,6 @@
 
 <br>
 
-
 <h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I work with.
