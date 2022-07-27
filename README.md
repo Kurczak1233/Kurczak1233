@@ -75,6 +75,9 @@
 
 <h2 align="left">Contact me:</h2>
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
 [![Visits](https://komarev.com/ghpvc/?username=Kurczak1233&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Kurczak1233)
