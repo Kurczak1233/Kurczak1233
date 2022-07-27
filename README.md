@@ -73,13 +73,13 @@
   </tr>
 </table>
 
-<h2 align="left">Contact me:</h2>
-
 ![](https://raw.githubusercontent.com/Kurczak1233/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Kurczak1233/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/Kurczak1233/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Kurczak1233/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+<h2 align="left">Contact me:</h2>
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
