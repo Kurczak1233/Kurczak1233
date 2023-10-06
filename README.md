@@ -1,6 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurczak1233&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kurczak1233&theme=dark)](https://git.io/streak-stats)
 
+Stuff I wrote:
+
+[michalkupczak.com Portolio](https://michalkupczak.com/)
+[kwszuflandia.pl Carpentry Website](https://kwszuflandia.pl/)
+[centrumsily.com Gym Website](https://centrumsily.com/)
+[<InProgress> Gym Website System]
 <br>
 
 <h2 align="left">Favorite Tech</h2>
