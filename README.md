@@ -6,7 +6,7 @@
 <br>
 [Gym Website](https://centrumsily.com/)
 <br>
-[Gym Website System - InProgress]
+[24/7 Gym Pass System - InProgress]
 <br>
 
 <h2 align="left">Favorite Tech</h2>
