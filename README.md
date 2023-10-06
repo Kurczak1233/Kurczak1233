@@ -2,10 +2,13 @@
 
 Stuff I wrote:
 
-[michalkupczak.com Portolio](https://michalkupczak.com/)
-[kwszuflandia.pl Carpentry Website](https://kwszuflandia.pl/)
-[centrumsily.com Gym Website](https://centrumsily.com/)
-[<InProgress> Gym Website System]
+[Portolio](https://michalkupczak.com/)
+<br>
+[Carpentry Website](https://kwszuflandia.pl/)
+<br>
+[Gym Website](https://centrumsily.com/)
+<br>
+[Gym Website System <InProgress>]
 <br>
 
 <h2 align="left">Favorite Tech</h2>
