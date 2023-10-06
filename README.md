@@ -1,6 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kurczak1233&theme=dark)](https://git.io/streak-stats)
-
-Stuff I wrote:
+<h2>Stuff I wrote:</h2>
 
 [Portolio](https://michalkupczak.com/)
 <br>
@@ -93,6 +91,9 @@ Stuff I wrote:
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-kupczak/)
 [![Visits](https://komarev.com/ghpvc/?username=Kurczak1233&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Kurczak1233)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kurczak1233&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Kurczak1233/Kurczak1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
