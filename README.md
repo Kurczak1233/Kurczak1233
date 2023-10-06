@@ -8,7 +8,7 @@ Stuff I wrote:
 <br>
 [Gym Website](https://centrumsily.com/)
 <br>
-[Gym Website System <InProgress>]
+[Gym Website System - InProgress]
 <br>
 
 <h2 align="left">Favorite Tech</h2>
